@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## DevOps Tools
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=E14229 "GitLab")
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
 
 ## IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
