@@ -27,3 +27,11 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white "Symfony")
 ![MySQL](https://img.shields.io/badge/MySQL-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=3E6E93 "MySQL")
+
+## DevOps Tools
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=E14229 "GitLab")
+
+## IDE
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
