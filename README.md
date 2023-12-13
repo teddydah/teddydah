@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ## Back-end
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white "Symfony")
-![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![MySQL](https://img.shields.io/badge/MySQL-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=3E6E93 "MySQL")
