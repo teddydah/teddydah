@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 # 🏆GitHub Trophies
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddydah" alt="teddydah" /></a></p>
 
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 # ⚙️Skills
 
 ## Front-end
