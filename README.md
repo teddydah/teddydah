@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" /></p>
 
 # 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&title=Joined2020,Experience,Commits,Followers,Repositories&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&title=Joined2020,Experience,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 # ⚙️Skills
