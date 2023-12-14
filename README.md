@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-# GitHub Stats
+# 📊GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddydah&show_icons=true&locale=en" alt="teddydah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" /></p>
 
-# GitHub Trophies
+# 🏆GitHub Trophies
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddydah" alt="teddydah" /></a></p>
--->
 
 # ⚙️Skills
 
@@ -46,7 +44,7 @@ Here are some ideas to get you started:
 
 ## IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
-![PhpStorm](https://img.shields.io/badge/PhpStorm-9D4CF4.svg?style=for-the-badge&logo=phpstorm&logoColor=black "PhpStorm")
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=black&labelColor=9D4CF4 "PhpStorm")
 
 ## OS
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")
