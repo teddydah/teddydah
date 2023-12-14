@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📊GitHub Stats
+# 📊 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddydah&show_icons=true&locale=en" alt="teddydah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" /></p>
 
-# 🏆GitHub Trophies
+# 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&title=Joined2020,Experience,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-# ⚙️Skills
+# ⚙️ Skills
 
 ## Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
