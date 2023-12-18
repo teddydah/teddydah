@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
-![PhpStorm](https://img.shields.io/badge/PhpStorm-9D4CF4.svg?style=for-the-badge&logo=phpstorm&logoColor=black "PhpStorm")
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=7759F9 "PhpStorm")
 
 ### OS
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")
