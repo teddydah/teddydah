@@ -38,12 +38,13 @@ Here are some ideas to get you started:
 ### Back-end
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white "Symfony")
-![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
 
 ### DevOps Tools
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
+![Miro](https://img.shields.io/badge/Miro-FFD031?style=for-the-badge&logo=Miro&logoColor=black "Miro")
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
@@ -52,3 +53,6 @@ Here are some ideas to get you started:
 ### OS
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white "Windows")
+
+<!--## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/My%20Website-46a2f1.svg?&style=for-the-badge&link=https://teddy-dahyot.herokuapp.com/ "teddy-dahyot.herokuapp.com")](https://teddy-dahyot.herokuapp.com/)-->
