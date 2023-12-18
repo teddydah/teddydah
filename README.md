@@ -54,5 +54,10 @@ Here are some ideas to get you started:
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white "Windows")
 
+### Office
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-1762C2?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-C9461F?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "Microsoft PowerPoint")
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-0F8448?style=for-the-badge&logo=microsoft-excel&logoColor=white "Microsoft Excel")
+
 <!--## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/My%20Website-46a2f1.svg?&style=for-the-badge&link=https://teddy-dahyot.herokuapp.com/ "teddy-dahyot.herokuapp.com")](https://teddy-dahyot.herokuapp.com/)-->
