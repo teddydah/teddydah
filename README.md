@@ -40,14 +40,6 @@ Here are some ideas to get you started:
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&link=https://symfony.com/ "Symfony")](https://symfony.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/fr/ "MySQL")](https://www.mysql.com/fr/)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
-![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
-![Miro](https://img.shields.io/badge/Miro-FFD031?style=for-the-badge&logo=miro&logoColor=black "Miro")
-![Discord](https://img.shields.io/badge/Discord-5766F2?style=for-the-badge&logo=discord&logoColor=white "Discord")
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-545BC0?style=for-the-badge&logo=microsoft-teams&logoColor=white "Microsoft Teams")
-
 ### IDE
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=7759F9 "PhpStorm")
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
@@ -55,6 +47,14 @@ Here are some ideas to get you started:
 ### OS
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white "Windows")
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
+![Miro](https://img.shields.io/badge/Miro-FFD031?style=for-the-badge&logo=miro&logoColor=black "Miro")
+![Discord](https://img.shields.io/badge/Discord-5766F2?style=for-the-badge&logo=discord&logoColor=white "Discord")
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-545BC0?style=for-the-badge&logo=microsoft-teams&logoColor=white "Microsoft Teams")
 
 ### Office
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-1762C2?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")
