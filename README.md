@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-1762C2?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-C9461F?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "Microsoft PowerPoint")
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-0F8448?style=for-the-badge&logo=microsoft-excel&logoColor=white "Microsoft Excel")
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-B30A00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white "Adobe Acrobat Reader")
 ![Canva](https://img.shields.io/badge/Canva-00BCD0?style=for-the-badge&logo=canva&logoColor=white "Canva")
 
 <!--## 🌐 Portfolio
