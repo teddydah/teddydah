@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
 ![Miro](https://img.shields.io/badge/Miro-FFD031?style=for-the-badge&logo=miro&logoColor=black "Miro")
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&link=https://trello.com/fr "Trello")](https://trello.com/fr)
 ![Discord](https://img.shields.io/badge/Discord-5766F2?style=for-the-badge&logo=discord&logoColor=white "Discord")
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-545BC0?style=for-the-badge&logo=microsoft-teams&logoColor=white "Microsoft Teams")
 
