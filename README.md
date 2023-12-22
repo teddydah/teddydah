@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌐 Portfolio
+<a href="https://teddy-dahyot.herokuapp.com/" title="https://teddy-dahyot.herokuapp.com/">
+  <img src="https://github.com/teddydah/teddydah/assets/61130381/6ea2b984-c841-4eb9-b181-bf00193264be" width="250" alt="QR Code Portfolio" />
+</a>
+
 ## 📊 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddydah&show_icons=true&locale=en" alt="teddydah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" /></p>
@@ -62,9 +67,3 @@ Here are some ideas to get you started:
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-C9461F?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "Microsoft PowerPoint")
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-0F8448?style=for-the-badge&logo=microsoft-excel&logoColor=white "Microsoft Excel")
 ![Canva](https://img.shields.io/badge/Canva-00BCD0?style=for-the-badge&logo=canva&logoColor=white "Canva")
-
-<!--## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/My%20Website-46a2f1.svg?&style=for-the-badge&link=https://teddy-dahyot.herokuapp.com/ "teddy-dahyot.herokuapp.com")](https://teddy-dahyot.herokuapp.com/)-->
-
-## 🌐 Portfolio
-[![portfolio_qr_code](https://github.com/teddydah/teddydah/assets/61130381/6ea2b984-c841-4eb9-b181-bf00193264be "https://teddy-dahyot.herokuapp.com/")](https://teddy-dahyot.herokuapp.com/)
