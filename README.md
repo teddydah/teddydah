@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/My%20Website-46a2f1.svg?&style=for-the-badge&link=https://teddy-dahyot.herokuapp.com/ "teddy-dahyot.herokuapp.com")](https://teddy-dahyot.herokuapp.com/)-->
 
 ## 🌐 Portfolio
-![portfolio_qr_code](https://github.com/teddydah/teddydah/assets/61130381/6ea2b984-c841-4eb9-b181-bf00193264be)
+[![portfolio_qr_code](https://github.com/teddydah/teddydah/assets/61130381/6ea2b984-c841-4eb9-b181-bf00193264be)](https://teddy-dahyot.herokuapp.com/)
