@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ## ⚙️ Skills
 
 ### Front-end
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-810AF9?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/ "Bootstrap")](https://getbootstrap.com/)
+![HTML](https://img.shields.io/badge/HTML5-E44C22?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white "CSS3")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7308F6?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/ "Bootstrap")](https://getbootstrap.com/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/ "SASS")](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white&link=https://tailwindcss.com/ "Tailwind CSS")](https://tailwindcss.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&link=https://jquery.com/ "jQuery")](https://jquery.com/)
@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 ### Back-end
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://www.php.net/ "PHP")](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&link=https://symfony.com/ "Symfony")](https://symfony.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-fef2f2?style=for-the-badge&logo=laravel&logoColor=FF291A&link=https://laravel.com/ "Laravel")](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FEF2F2?style=for-the-badge&logo=laravel&logoColor=FF291A&link=https://laravel.com/ "Laravel")](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/fr/ "MySQL")](https://www.mysql.com/fr/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/ "Postman")](https://www.postman.com/)
 
 ### IDE
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=7759F9 "PhpStorm")
@@ -55,16 +54,27 @@ Here are some ideas to get you started:
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white "Windows")
 
-### Tools
+### Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
-[![Diagrams.net](https://img.shields.io/badge/Diagrams.net-f08801?style=for-the-badge&logo=diagrams.net&logoColor=white&labelColor=e06c04&link=https://app.diagrams.net/ "Diagrams.net")](https://app.diagrams.net/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/ "Postman")](https://www.postman.com/)
+
+### Diagrams
+[![Diagrams.net](https://img.shields.io/badge/Diagrams.net-f08801?style=for-the-badge&logo=diagrams.net&logoColor=white&labelColor=e06c04&link=https://app.diagrams.net/ "Diagrams.net (draw.io)")](https://app.diagrams.net/)
+
+### Wireframes
 [![Moqups](https://img.shields.io/badge/Moqups-1181F0?style=for-the-badge&logo=moqups&logoColor=white&link=https://moqups.com/ "Moqups")](https://moqups.com/)
+
+### Productivity
 ![Miro](https://img.shields.io/badge/Miro-FFD031?style=for-the-badge&logo=miro&logoColor=black "Miro")
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&link=https://trello.com/fr "Trello")](https://trello.com/fr)
+
+<!--
+### Collaboration
 ![Discord](https://img.shields.io/badge/Discord-5766F2?style=for-the-badge&logo=discord&logoColor=white "Discord")
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-545BC0?style=for-the-badge&logo=microsoft-teams&logoColor=white "Microsoft Teams")
+-->
 
 ### Office
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-1762C2?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")
