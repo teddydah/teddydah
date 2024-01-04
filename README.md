@@ -1,7 +1,7 @@
 # I'm Teddy, a Web Developer 🧑‍💻
 
 - 🔭 I’m currently working on a <strong>Symfony</strong> project
-- 🌱 I’m currently learning <strong>Laravel</strong>
+- 🌱 I’m currently learning <strong>Laravel</strong> & <strong>Node.js / Express / MongoDB</strong>
 
 <!--
 **teddydah/teddydah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
