@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ## ⚙️ Skills
 
 ### Front-end
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/fr/docs/Glossary/HTML5 "HTML5")](https://developer.mozilla.org/fr/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/fr/docs/Web/CSS "CSS3")](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/fr/docs/Web/JavaScript "JavaScript")](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-810AF9?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/ "Bootstrap")](https://getbootstrap.com/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/ "SASS")](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white&link=https://tailwindcss.com/ "Tailwind CSS")](https://tailwindcss.com/)
