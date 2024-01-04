@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### Back-end
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://www.php.net/ "PHP")](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&link=https://symfony.com/ "Symfony")](https://symfony.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-fef2f2?style=for-the-badge&logo=laravel&logoColor=FF291A&link=https://laravel.com/ "Laravel")](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/fr/ "MySQL")](https://www.mysql.com/fr/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/ "Postman")](https://www.postman.com/)
-<!--[![Laravel](https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white&link=https://laravel.com/ "Laravel")](https://laravel.com/)-->
 
 ### IDE
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=7759F9 "PhpStorm")
