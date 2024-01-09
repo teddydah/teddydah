@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 </a>
 
 ## 📊 GitHub Stats
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teddydah)](https://github.com/teddydah)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddydah&show_icons=true&locale=en" alt="teddydah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" /></p>
 
