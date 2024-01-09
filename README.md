@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
-[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&link=https://insomnia.rest/ "Insomnia")](https://insomnia.rest/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5748C0?style=for-the-badge&logo=insomnia&logoColor=white&link=https://insomnia.rest/ "Insomnia")](https://insomnia.rest/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/ "Postman")](https://www.postman.com/)
 
 ### Diagrams
