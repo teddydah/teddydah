@@ -1,4 +1,5 @@
-# I'm Teddy, a Web Developer 🧑‍💻
+![I'm Teddy, a Web Developer 🧑‍💻](https://github.com/teddydah/teddydah/assets/61130381/96f7590a-4471-4b24-8092-f6f69b69bb7f)
+<!--# I'm Teddy, a Web Developer 🧑‍💻-->
 
 - 🔭 I’m currently working on a <strong>Laravel</strong> project
 - 🌱 I’m currently learning <strong>Laravel</strong> & <strong>Node.js / Express / MongoDB</strong>
