@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 </a>
 
 ## 📊 GitHub Stats
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teddydah)](https://github.com/teddydah)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teddydah&layout=compact)](https://github.com/teddydah)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddydah&show_icons=true&locale=en" alt="teddydah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" /></p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&title=Joined2020,Experience,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&title=Joined2020,Experience,Commits,Followers,Repositories)](https://github.com/teddydah)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=teddydah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ## ⚙️ Skills
