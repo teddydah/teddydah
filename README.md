@@ -1,6 +1,6 @@
 # I'm Teddy, a Web Developer 🧑‍💻
 
-- 🔭 I’m currently working on a <strong>Symfony</strong> project
+- 🔭 I’m currently working on a <strong>Laravel</strong> project
 - 🌱 I’m currently learning <strong>Laravel</strong> & <strong>Node.js / Express / MongoDB</strong>
 
 <!--
@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://www.php.net/ "PHP")](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&link=https://symfony.com/ "Symfony")](https://symfony.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-F5F5FA?style=for-the-badge&logo=laravel&logoColor=F03D30&link=https://laravel.com/ "Laravel")](https://laravel.com/)
-
-### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/fr/ "MySQL")](https://www.mysql.com/fr/)
 
 ### IDE
@@ -60,6 +58,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&link=https://insomnia.rest/ "Insomnia")](https://insomnia.rest/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/ "Postman")](https://www.postman.com/)
 
 ### Diagrams
