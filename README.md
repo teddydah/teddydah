@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 <p>
   <a href="https://github.com/teddydah">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah&" alt="teddydah" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddydah" alt="teddydah" />
   </a>
 </p>
 
