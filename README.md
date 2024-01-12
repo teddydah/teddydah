@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FCA326&labelColor=E14229 "GitLab")
 [![Insomnia](https://img.shields.io/badge/Insomnia-5748C0?style=for-the-badge&logo=insomnia&logoColor=white&link=https://insomnia.rest/ "Insomnia")](https://insomnia.rest/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/ "Postman")](https://www.postman.com/)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&link=https://chat.openai.com/ "ChatGPT")](https://chat.openai.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-75AB9D?style=for-the-badge&logo=openai&logoColor=white&link=https://chat.openai.com/ "ChatGPT")](https://chat.openai.com/)
 
 ### Diagrams
 [![Diagrams.net](https://img.shields.io/badge/Diagrams.net-f08801?style=for-the-badge&logo=diagrams.net&logoColor=white&labelColor=e06c04&link=https://app.diagrams.net/ "Diagrams.net (draw.io)")](https://app.diagrams.net/)
