@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### Back-end
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://www.php.net/ "PHP")](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&link=https://symfony.com/ "Symfony")](https://symfony.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-F5F5FA?style=for-the-badge&logo=laravel&logoColor=F03D30&link=https://laravel.com/ "Laravel")](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-E6E6E6?style=for-the-badge&logo=laravel&logoColor=FF291A&link=https://laravel.com/ "Laravel")](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/fr/ "MySQL")](https://www.mysql.com/fr/)
 
 ### IDE
