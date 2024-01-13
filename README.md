@@ -1,5 +1,4 @@
-<!--[![I'm Teddy, a Web Developer 🧑🏻‍💻](https://github.com/teddydah/teddydah/assets/61130381/d0d9440d-8cbe-4457-a602-3c3924acaefa)](https://github.com/teddydah)-->
-[![I'm Teddy, a Web Developer 🧑🏻‍💻](https://github.com/teddydah/teddydah/assets/61130381/6a7f1aa1-40cd-4cef-a527-585a4628261c)](https://github.com/teddydah)
+[![I'm Teddy, a Web Developer 🧑🏻‍💻](https://github.com/teddydah/teddydah/assets/61130381/84d44070-825a-4ccd-a614-5d6b8d929376)](https://github.com/teddydah)
 <!--# I'm Teddy, a Web Developer 🧑🏻‍💻-->
 
 - 🔭 I’m currently working on a <strong>Laravel</strong> project
