@@ -1,6 +1,6 @@
-<!--[![I'm Teddy, a Web Developer 🧑‍💻](https://github.com/teddydah/teddydah/assets/61130381/96f7590a-4471-4b24-8092-f6f69b69bb7f)](https://github.com/teddydah)-->
-[![I'm Teddy, a Web Developer 🧑‍💻](https://github.com/teddydah/teddydah/assets/61130381/d0d9440d-8cbe-4457-a602-3c3924acaefa)](https://github.com/teddydah)
-<!--# I'm Teddy, a Web Developer 🧑‍💻-->
+<!--[![I'm Teddy, a Web Developer 🧑🏻‍💻](https://github.com/teddydah/teddydah/assets/61130381/d0d9440d-8cbe-4457-a602-3c3924acaefa)](https://github.com/teddydah)-->
+[![I'm Teddy, a Web Developer 🧑🏻‍💻](https://github.com/teddydah/teddydah/assets/61130381/6a7f1aa1-40cd-4cef-a527-585a4628261c)](https://github.com/teddydah)
+<!--# I'm Teddy, a Web Developer 🧑🏻‍💻-->
 
 - 🔭 I’m currently working on a <strong>Laravel</strong> project
 - 🌱 I’m currently learning <strong>Laravel</strong> & <strong>Node.js / Express / MongoDB</strong>
